@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="welcome banner" width="800"/>
+  <img src="https://user-images.githubusercontent.com/your-image-path.png" alt="welcome banner" width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Durgesh Sharma 👋</h1>
