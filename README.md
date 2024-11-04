@@ -56,12 +56,8 @@
 
 ---
 
-### 🖥️ Recent Activity
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=winter000boy&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
----
+
 
 ### 📜 Resume
 - 📄 [View My Resume](https://drive.google.com/file/d/113KXXzWrQCEB9LvN5MAqYqpicoZW0bT4/view?usp=drive_link)
