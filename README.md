@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230704/pngtree-innovative-3d-mobile-mockup-paired-with-web-development-banner-and-laptop-image_3742578.jpg" alt="welcome banner" height="20%" width="800"/>
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230704/pngtree-innovative-3d-mobile-mockup-paired-with-web-development-banner-and-laptop-image_3742578.jpg" alt="welcome banner" height="10%" width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Durgesh Sharma 👋</h1>
