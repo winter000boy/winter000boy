@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sharma</h1>
-<h3 align="center">🚀 Full Stack Java Developer | ☁️ Cloud & API Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Java Developer | ☁️ Cloud & API Enthusiast | 💻 AI & Data Science Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sharmajidurgesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,6 +18,14 @@ Currently pursuing a **B.E. in Artificial Intelligence & Data Science**, I thriv
 - 🌱 **Learning:** Advanced Data Structures, Cloud-Native Development, System Design  
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs, MERN Stack, Databases  
 - ⚡ **Fun fact:** I love tinkering with AI models and exploring blockchain in my free time  
+
+---
+
+### 🐍 Contribution Graph Snake  
+
+<p align="center">
+  <img src="https://github.com/winter000boy/winter000boy/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -40,14 +48,26 @@ Git, GitHub, Agile & Scrum
 
 ---
 
-### 📂 My Repositories
-![Repositories](https://github.com/winter000boy/winter000boy/blob/main/github-metrics.svg)
-
-
 ### 💼 Experience  
 
 - **Infosys (Online) – AI Engineer** *(Nov 2024 – Present)*  
   Worked on ML models and NLP solutions for enterprise automation and decision-making.  
+
+- **Toku Tech Solutions Pvt. Ltd. – Java Backend Developer** *(Feb 2024 – Apr 2024)*  
+  Managed backend with Node.js, optimized databases, improved app performance.  
+
+- **Xmega – Web Developer** *(Nov 2023 – Mar 2024)*  
+  Built 3+ scalable web apps with focus on responsive design & performance.  
+
+---
+
+### 📂 Featured Projects  
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **E-Commerce Platform** | React + Spring Boot app with MySQL, JWT auth, order management & payment gateway. | React.js · Spring Boot · MySQL |
+| **Employee Management System** | CRUD-based Spring Boot system with Hibernate & role-based auth. | Spring Boot · Hibernate · MySQL |
+| **Social Media Web App** | MERN stack app with real-time chat via WebSockets & optimized queries. | MongoDB · Express · React · Node.js |
 
 ---
 
@@ -75,11 +95,13 @@ Pune Vidyarthi Griha’s COE & SD Institute of Management, Nashik
 
 ---
 
-### 🐍 Contribution Graph Snake  
+### 📂 Dynamic Repositories  
 
 <p align="center">
-  <img src="https://github.com/winter000boy/winter000boy/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/winter000boy/winter000boy/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
+
+
 
 ---
 
