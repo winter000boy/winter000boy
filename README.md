@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Sharma</h1>
-<h3 align="center">🚀 Full Stack Java Developer | ☁️ Cloud & API Enthusiast | 💻 AI & Data Science Engineer</h3>
+<h3 align="center">🚀 Full Stack Java Developer | ☁️ Cloud & API Enthusiast </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sharmajidurgesh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +28,13 @@ Currently pursuing a **B.E. in Artificial Intelligence & Data Science**, I thriv
 </p>
 
 ---
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winter000boy&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winter000boy&layout=compact&theme=tokyonight" height="180" />
+</p>
+
 
 ### 🛠️ Skills  
 
@@ -52,12 +59,6 @@ Git, GitHub, Agile & Scrum
 
 - **Infosys (Online) – AI Engineer** *(Nov 2024 – Present)*  
   Worked on ML models and NLP solutions for enterprise automation and decision-making.  
-
-- **Toku Tech Solutions Pvt. Ltd. – Java Backend Developer** *(Feb 2024 – Apr 2024)*  
-  Managed backend with Node.js, optimized databases, improved app performance.  
-
-- **Xmega – Web Developer** *(Nov 2023 – Mar 2024)*  
-  Built 3+ scalable web apps with focus on responsive design & performance.  
 
 ---
 
@@ -86,12 +87,7 @@ Pune Vidyarthi Griha’s COE & SD Institute of Management, Nashik
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winter000boy&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winter000boy&layout=compact&theme=tokyonight" height="180" />
-</p>
 
 ---
 
