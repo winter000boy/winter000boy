@@ -27,6 +27,11 @@ Currently pursuing a **B.E. in Artificial Intelligence & Data Science**, I thriv
   <img src="https://github.com/winter000boy/winter000boy/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=winter000boy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
+
 ---
 ### 📊 GitHub Stats  
 
