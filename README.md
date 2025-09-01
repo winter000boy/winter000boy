@@ -32,6 +32,11 @@ Currently pursuing a **B.E. in Artificial Intelligence & Data Science**, I thriv
   <img src="https://komarev.com/ghpvc/?username=winter000boy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=winter000boy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 ---
 ### 📊 GitHub Stats  
 
