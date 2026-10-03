@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/snake.yml
 
 jobs:
   build:
@@ -14,22 +16,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - name: Generate Snake Game from Contributions
+      - name: Generate snake from contributions
         uses: Platane/snk@v3
         with:
           github_user_name: winter000boy
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-          
-      - name: Push generated snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/snake-dark.svg?palette=github-dark&color_snake=#7F5AF0
+
+      - name: Push generated SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
