@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/winter000boy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+AI+governance+%26+data+security+platforms;Backend+engineer+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AI+%26+Data+Science+grad+%E2%80%A2+applied+ML+%26+NLP;Always+learning+distributed+systems+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+AI+governance+%26+data+security+platforms;Backend+engineer+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;AI+%26+Data+Science+grad+%E2%80%A2+applied+ML+%26+NLP;Always+learning+distributed+systems+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ public class DurgeshSharma {
 
     String   role      = "Software Engineer @ Trust3 AI";
     String   focus     = "AI governance · backend systems · data platforms";
-    String[] coreStack = { "Java", "Spring Boot", "Node.js", "Python", "React", "PostgreSQL" };
+    String[] coreStack = { "Java", "Spring Boot", "Hibernate", "Python", "PostgreSQL" };
     String   learning  = "Distributed systems, system design, cloud-native architecture";
     String   education = "B.E. Artificial Intelligence & Data Science (2025)";
     String   basedIn   = "Nashik, India 🇮🇳";
@@ -43,7 +43,7 @@ public class DurgeshSharma {
 ```
 
 - 🛡️ **Now:** engineering AI governance & data-security tooling at **Trust3 AI**
-- 🧠 **Background:** ML/NLP for enterprise automation, full-stack Java & MERN apps
+- 🧠 **Background:** ML/NLP for enterprise automation, full-stack Java / Spring Boot apps
 - 📚 **Learning in public:** [Software-Engineering-Mastery](https://github.com/winter000boy/Software-Engineering-Mastery) — Java fundamentals → production-grade distributed systems
 - 💬 **Ask me about:** Spring Boot, REST & event-driven APIs, databases, applied ML
 
@@ -54,11 +54,11 @@ public class DurgeshSharma {
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp&perline=8" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,ts,cpp&perline=8" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,hibernate,maven,nodejs,express&perline=8" alt="Backend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,hibernate,maven&perline=8" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -85,13 +85,12 @@ public class DurgeshSharma {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/winter000boy/NeuroFlow">⚡ NeuroFlow</a></h3>
-      Zapier-style workflow automation platform on top of the n8n engine, with real-time execution monitoring over WebSockets.
+      <h3><a href="https://github.com/winter000boy/hospitalmanagement">🏥 Hospital Management</a></h3>
+      Full-stack hospital system for patients, doctors, appointments and billing, built on a layered Spring Boot backend.
       <br /><br />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/winter000boy/Neuroflow-ERP">🏫 Neuroflow ERP</a></h3>
@@ -113,11 +112,11 @@ public class DurgeshSharma {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/winter000boy/Chat-Application">💬 Real-time Chat</a></h3>
-      Low-latency chat over WebSockets using the STOMP protocol with SockJS fallback.
+      Low-latency chat over WebSockets with STOMP messaging on a Spring Boot backend.
       <br /><br />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
