@@ -20,7 +20,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      # The action wipes profile-summary-card-output/ on every run, so generate
+      # each theme without pushing, stash it, and commit both at the end.
 
       # Dark-mode cards (served via <picture> prefers-color-scheme: dark)
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -28,10 +31,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: winter000boy
-          BRANCH_NAME: main
           UTC_OFFSET: 5.5
           THEME: tokyonight
           ANIMATION: draw
+          AUTO_PUSH: false
+
+      - name: Stash dark cards
+        run: mv profile-summary-card-output/tokyonight "$RUNNER_TEMP/tokyonight"
 
       # Light-mode cards
       - uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -39,7 +45,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: winter000boy
-          BRANCH_NAME: main
           UTC_OFFSET: 5.5
           THEME: github
           ANIMATION: draw
+          AUTO_PUSH: false
+
+      - name: Commit and push both themes
+        run: |
+          mv "$RUNNER_TEMP/tokyonight" profile-summary-card-output/tokyonight
+          git config user.name "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add -A profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "No card changes"
+            exit 0
+          fi
+          git commit -m "Generate profile summary cards"
+          git pull --rebase origin main
+          git push origin HEAD:main
